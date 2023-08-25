@@ -9,6 +9,7 @@ mysql = "*"
 mysql-connector = "*"
 mysql-connector-python = "*"
 django-debug-toolbar = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
